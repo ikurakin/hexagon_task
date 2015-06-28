@@ -1,0 +1,1071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"rbody	 ν"
+			],
+			[
+				"func",
+				"func http handler	func(rw, req) ʂ"
+			],
+			[
+				"s",
+				"StatusCode	int ν"
+			],
+			[
+				"test",
+				"testAPI	 ƒ"
+			],
+			[
+				"Re",
+				"Response	struct ʈ"
+			],
+			[
+				"B",
+				"Buffer	struct ʈ"
+			],
+			[
+				"ca",
+				"carrierData	[]*Carrier ν"
+			],
+			[
+				"carr",
+				"carrierData	[]*Carrier ν"
+			],
+			[
+				"cd",
+				"cdata	*[]*Carrier ν"
+			],
+			[
+				"Ca",
+				"Carrier	struct ʈ"
+			],
+			[
+				"js",
+				"jsonBytes	[]byte ν"
+			],
+			[
+				"New",
+				"NewPurchaseInvoiceData	*PurchaseInvoiceData ƒ"
+			],
+			[
+				"tes",
+				"testGetData	 ƒ"
+			],
+			[
+				"d",
+				"dbstr	 ν"
+			],
+			[
+				"o",
+				"ok	 ν"
+			],
+			[
+				"db",
+				"dbconn_list	[]string ν"
+			],
+			[
+				"obj",
+				"objects1c	 package ρ"
+			],
+			[
+				"do",
+				"done	chan string ν"
+			],
+			[
+				"Carr",
+				"CarrierData	struct ʈ"
+			],
+			[
+				"c",
+				"ch	chan *Carrier ν"
+			],
+			[
+				"Ex",
+				"ExpenseFundsData	struct ʈ"
+			],
+			[
+				"R",
+				"ReceiptFunds	struct ʈ"
+			],
+			[
+				"sql",
+				"sqlStr	string ν"
+			],
+			[
+				"RECE",
+				"RECEIPT_FUNDS_TBL	 Ɩ"
+			],
+			[
+				"doc",
+				"docSum	float64 ν"
+			],
+			[
+				"sq",
+				"sql_tmpl	 ν"
+			],
+			[
+				"Ti",
+				"Time	struct ʈ"
+			],
+			[
+				"REC",
+				"RECEIPT_FUNDS_TBL_VT	 Ɩ"
+			],
+			[
+				"RECEIPT_FUNDS_T",
+				"RECEIPT_FUNDS_TBL	 Ɩ"
+			],
+			[
+				"get",
+				"getCarrierSQLString	sqlStr string ƒ"
+			],
+			[
+				"co",
+				"contractsSQLString	string ν"
+			],
+			[
+				"Co",
+				"ContactInfo	ContactInfo ν"
+			],
+			[
+				"fill",
+				"fillContactInfo	 ƒ"
+			],
+			[
+				"BAN",
+				"BANK_ACC_TBL	 Ɩ"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"fi",
+				"fillBankAccounts	 ƒ"
+			],
+			[
+				"fu",
+				"func (*Carrier)	func (...) {...} ʂ"
+			],
+			[
+				"ba",
+				"bank_accs	[]BankAccount ν"
+			],
+			[
+				"ban",
+				"bankaddr	string ν"
+			],
+			[
+				"Ban",
+				"BankAccount	struct ʈ"
+			],
+			[
+				"CONTR",
+				"CONTRACT_TYPE_ENUM	 Ɩ"
+			],
+			[
+				"C",
+				"CURENCY_TABLE	 Ɩ"
+			],
+			[
+				"p",
+				"Println	 ƒ"
+			],
+			[
+				"debt",
+				"debtDays	int ν"
+			],
+			[
+				"con",
+				"contractType	int ν"
+			],
+			[
+				"deb",
+				"debtDays	int ν"
+			],
+			[
+				"id",
+				"idrref	[]byte ν"
+			],
+			[
+				"i",
+				"idrref	[]byte ν"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"enc",
+				"EncodeToString	string ƒ"
+			],
+			[
+				"date",
+				"dateFormat	 ν"
+			],
+			[
+				"for",
+				"format	 ν"
+			],
+			[
+				"time",
+				"timeFormat	 ν"
+			],
+			[
+				"one",
+				"oneMonthTick	 Ɩ"
+			],
+			[
+				"on",
+				"oneWeekTick	 Ɩ"
+			],
+			[
+				"RF",
+				"RFC3339	 Ɩ"
+			],
+			[
+				"res",
+				"result	JsonResult ν"
+			],
+			[
+				"Wr",
+				"WriteJSON	error ƒ"
+			],
+			[
+				"a",
+				"answerChan	chan []byte ν"
+			],
+			[
+				"m",
+				"msg	[]byte ν"
+			],
+			[
+				"ms",
+				"msgType	int ν"
+			],
+			[
+				"ws",
+				"wsconn	 package ρ"
+			],
+			[
+				"W",
+				"WriteMessage	error ƒ"
+			],
+			[
+				"an",
+				"answerMsg	 ν"
+			],
+			[
+				"S",
+				"Subrouter	*mux.Router ƒ"
+			],
+			[
+				"T",
+				"Tick	struct ʈ"
+			],
+			[
+				"cre",
+				"createCurrentLine	 ƒ"
+			],
+			[
+				"Pl",
+				"Plotter	interface ¡"
+			],
+			[
+				"line",
+				"line_chan	chan *plotter.Line ν"
+			],
+			[
+				"lin",
+				"line_chan	chan *plotter.Line ν"
+			],
+			[
+				"L",
+				"Line	struct ʈ"
+			],
+			[
+				"plo",
+				"plotter	 package ρ"
+			],
+			[
+				"XY",
+				"XYs	[]struct ʈ"
+			],
+			[
+				"Cop",
+				"CopyXYs	plotter.XYs, error ƒ"
+			],
+			[
+				"D",
+				"DataDrawArea	plot.DrawArea ƒ"
+			],
+			[
+				"J",
+				"JsonResult	struct ʈ"
+			],
+			[
+				"P",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"ans",
+				"answer_chan	chan []byte ν"
+			],
+			[
+				"Mo",
+				"ModTime	time.Time ƒ"
+			],
+			[
+				"gz",
+				"gz_writer	*gzip.Writer ν"
+			],
+			[
+				"Ne",
+				"NewWriter	*gzip.Writer ƒ"
+			],
+			[
+				"Op",
+				"Open	file *os.File, err error ƒ"
+			],
+			[
+				"cs",
+				"csv_reader	*csv.Reader ν"
+			],
+			[
+				"fun",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"str",
+				"struct_method	reflect.Value ν"
+			],
+			[
+				"Ty",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"N",
+				"NumMethod	int ƒ"
+			],
+			[
+				"Me",
+				"MethodByName	reflect.Value ƒ"
+			],
+			[
+				"M",
+				"MethodByName	reflect.Value ƒ"
+			],
+			[
+				"ty",
+				"typeOfT	reflect.Type ν"
+			],
+			[
+				"F",
+				"Float	float64 ƒ"
+			],
+			[
+				"Va",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"sm",
+				"smtpbox	 ν"
+			],
+			[
+				"Pri",
+				"Println	 ƒ"
+			],
+			[
+				"re",
+				"remaining_days	string ν"
+			],
+			[
+				"swa",
+				"swap_end_date	string ν"
+			],
+			[
+				"swap_",
+				"swap_percentage	float64 ν"
+			],
+			[
+				"swap",
+				"swap_percentage	float64 ν"
+			],
+			[
+				"des",
+				"dest_id	string ν"
+			],
+			[
+				"va",
+				"values	[]string ν"
+			],
+			[
+				"st",
+				"strings	 package ρ"
+			],
+			[
+				"val",
+				"values	[]interface{} ν"
+			],
+			[
+				"us",
+				"username	string ν"
+			],
+			[
+				"Hand",
+				"Handler	interface ¡"
+			],
+			[
+				"GetSw",
+				"GetSwapPlans	result [][]string ƒ"
+			],
+			[
+				"en",
+				"end_date	(param)"
+			],
+			[
+				"sta",
+				"start_date	(param)"
+			],
+			[
+				"HandleF",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"Up",
+				"Upgrader	struct ʈ"
+			],
+			[
+				"ma",
+				"margin_logger	*log.Logger ν"
+			],
+			[
+				"f",
+				"fill_total_regions	err error ƒ"
+			],
+			[
+				"z",
+				"zone	[]string ν"
+			],
+			[
+				"zo",
+				"zones	[]string ν"
+			],
+			[
+				"GetM",
+				"GetMngrZone	result []string, err error ƒ"
+			],
+			[
+				"err",
+				"err_str	string ν"
+			],
+			[
+				"sum",
+				"sum_plus	float64 ν"
+			],
+			[
+				"pl",
+				"plus	float64 ν"
+			],
+			[
+				"calc",
+				"calc_name	string ν"
+			],
+			[
+				"add",
+				"add_total_mngr_region	err error ƒ"
+			],
+			[
+				"mn",
+				"mngr_region	string ν"
+			],
+			[
+				"e",
+				"excl_carrier	string ν"
+			],
+			[
+				"ini",
+				"init_queries	*db_queries.Queries ƒ"
+			],
+			[
+				"lo",
+				"logger	*log.Logger ν"
+			],
+			[
+				"O",
+				"O_RDWR	 Ɩ"
+			],
+			[
+				"op",
+				"OpenFile	file *os.File, err error ƒ"
+			],
+			[
+				"u",
+				"update_str	string ν"
+			],
+			[
+				"fmt",
+				"fmt_cur_date	string ν"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "xml",
+		"selected_items":
+		[
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"js",
+				"Indent JSON"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Run Tests"
+			],
+			[
+				"go",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"jso",
+				"Indent JSON"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ikurakin/Documents/hexagon_task"
+	],
+	"file_history":
+	[
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/cmd/checkinvoice/main.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/cmd/main/main.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/carriers.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/expense_funds.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/receipt_funds.go",
+		"/Users/ikurakin/Documents/go_projects/src/swap_plan_minutes/db_queries/db_queries.go",
+		"/Users/ikurakin/Documents/go_projects/src/github.com/constabulary/gb/cmd/gb-vendor/vendor/repo.go",
+		"/Users/ikurakin/Documents/go_learning.sublime-project",
+		"/Users/ikurakin/Downloads/temp/pl_regprice.csv",
+		"/Users/ikurakin/Downloads/temp/vprefix.csv",
+		"/Users/ikurakin/Downloads/temp/pl_pricelist.csv",
+		"/Users/ikurakin/Downloads/temp/pl_prefix.csv",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/1c_expinvoice_post_src",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/objects1c_test.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/purchase_invoice.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/tables_fields.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/datagetter.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/1c_tables_description",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/db/1c_test",
+		"/Users/ikurakin/Downloads/carriers",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/main_test.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/utils/utils_test.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/main/main.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c_test/expense_funds_test.go",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoOracle/README.md",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/expense_funds_test.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/receiptfunds/receiptfunds.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/purchaseinvoice/purchaseinvoice.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/main/tables1c.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/carriers/carriers.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/utils/utils.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/tables1c/tables1c.go",
+		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/1ctables/tables1c.go",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/db_queries/db_queries.go",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ikurakin/Documents/go_projects/src/ccscharts/main.go",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/swap_margin_server.go",
+		"/Users/ikurakin/Documents/go_projects/src/go_projects.go",
+		"/Users/ikurakin/Downloads/aberrant_client (1).log",
+		"/Users/ikurakin/Documents/go_projects/src/sql_queries/sql_queries.go",
+		"/Users/ikurakin/Documents/go_projects/src/ccs_projects.go",
+		"/Users/ikurakin/Downloads/234667.qrc",
+		"/Users/ikurakin/Downloads/test_result_xml",
+		"/Users/ikurakin/Documents/ccs_work/voipscanner3/client/voip_prof",
+		"/Users/ikurakin/Downloads/LCR_Constant_02_10.csv",
+		"/Users/ikurakin/Documents/test_slack_bitbucket/margin-report/config.py",
+		"/Users/ikurakin/Downloads/Destination_codes.csv",
+		"/Users/ikurakin/Downloads/Destination_codes (1).csv",
+		"/Users/ikurakin/Downloads/test_result_xml.qrc",
+		"/Users/ikurakin/Downloads/225362.xml",
+		"/Users/ikurakin/Documents/oberator",
+		"/Users/ikurakin/Documents/go_projects/src/gowiki/{'_headers': [('Return-Path', '<vf@ccstele.co.uk>'",
+		"/Users/ikurakin/Documents/go_projects/src/ccscharts/chart/chart.go",
+		"/Users/ikurakin/Documents/go_projects/src/ccscharts/wsconn/wsconn.go",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/ikurakin/Documents/go_projects/src/ccscharts/chart/Iura : Pizza prosciutto funghi 550g, sos dulce, 63",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/rpc_client.py",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/goroutines_example.go",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/swap_margin_server.zip",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/db_queries/calculations.go",
+		"/Users/ikurakin/Documents/go_projects/src/ccscharts/prevdayplot.go",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/db/swap_margin.sql",
+		"/Users/ikurakin/Documents/go_projects/src/code.google.com/p/plotinum/plotter/line.go",
+		"/Users/ikurakin/Documents/go_projects/src/pricelists/price_lists_server.go",
+		"/Users/ikurakin/Documents/go_projects/src/swap_margin/test_ws_client.py",
+		"/Users/ikurakin/Downloads/destinations_codes_03_12.csv",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoSublime/Default (OSX).sublime-keymap",
+		"/Users/ikurakin/Documents/go_projects/src/github.com/andlabs/ui/init.go",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/server.log",
+		"/Users/ikurakin/Documents/ccs_work/price_lists/file_processing.py",
+		"/Users/ikurakin/Documents/ccs_work/price_lists/local_queries.py",
+		"/Users/ikurakin/Documents/ccs_work/price_lists/price_models.py",
+		"/Users/ikurakin/Documents/ccs_work/price_lists/price_queries.py",
+		"/Users/ikurakin/Documents/go_projects/src/websocket_test/test_ws_client.py",
+		"/Users/ikurakin/Documents/ccs_work/tmp_price/local_queries.py",
+		"/Users/ikurakin/Documents/ccs_work/tmp_price/file_processing.py",
+		"/Users/ikurakin/Downloads/stats_client/models.py",
+		"/Users/ikurakin/Documents/ccs_work/voipscanner3/tempwidget.py",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/PySide/README.markdown",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/PySide/SublimePySide.sublime-settings",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/SublimePySide.sublime-settings",
+		"/Users/ikurakin/Desktop/vpn_options.txt",
+		"/Users/ikurakin/Desktop/credentials",
+		"/Users/ikurakin/Documents/go_projects/src/swap_plan_minutes/swap_plan_minutes.go",
+		"/Users/ikurakin/Documents/go_projects/src/cdr_processing/cdr_processing.go",
+		"/Users/ikurakin/Downloads/testgui.py",
+		"/Users/ikurakin/Documents/go_projects/src/cdr_processing/emit_log.py",
+		"/Users/ikurakin/Documents/go_projects/src/cdr_processing/receive_logs.py",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/194678_test_result.xml",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/IcoMoon--limited--master/Icons/PNG/img_pack.qrc",
+		"/Users/ikurakin/Downloads/LCR_Constant_01112014.csv",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/oberator",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/sonus_parsed",
+		"/Users/ikurakin/Documents/oberator_log",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/Users/ikurakin/Documents/go_projects/src/swap_plan_minutes/test_ws_client.py",
+		"/Users/ikurakin/Documents/go_projects/src/mongo_sonus_cdr/sonus_cdr.go",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_20141006034501.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_20141006063606.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_20141006053543.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_20141006055159.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_20141005192147.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_20141007070004.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_201410065321.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_201410064725.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_201410064315.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_201410064425.CDR",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/carantine/capgsx01_201410063234.CDR",
+		"/Users/ikurakin/Downloads/LCR_Constant_07102014.csv",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903030000.100F774",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoSublime/README.md",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903023000.100F772",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/capgsx01.20140827094502.100EEFD",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoGdb/Default.sublime-keymap",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoGdb/GoGdb.sublime-settings",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/gosort",
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/untitled",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140910185942.1010357.PRC",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903031500.100F775",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903024501.100F773",
+		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903033000.100F776",
+		"/Users/ikurakin/Documents/swap_plan_minutes",
+		"/Users/ikurakin/Documents/ccs_work/aberrant/oberator_20140908"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/ikurakin/Documents/go_projects/src",
+			"/Users/ikurakin/Documents/go_projects/src/github.com/constabulary",
+			"/Users/ikurakin/Documents/go_projects/ccscharts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"email",
+			"unknown repository type",
+			"\"fetch\" failed: unknown repository type",
+			"FATAL command \"fetch\" failed: unknown repository type",
+			"dbconn_map",
+			"errors",
+			"RECEIPT",
+			"receipt",
+			"CONTRACT_TBL_ID",
+			"CONTRACT_TBL",
+			"CARRIER_TBL_IDRREF",
+			"tables1c.",
+			"CONTRACT_TBL_ID",
+			"PURCHASE_INVOICE_TBL_NUMB",
+			"bytes",
+			"_reference43",
+			"_fld1846",
+			"_reference43",
+			"_fld1825rref",
+			"_fld1832",
+			"_fld1833",
+			"BankAccount",
+			"GOPATH",
+			"1",
+			"line1",
+			"media",
+			"DATE_FORMAT",
+			"time",
+			"JsonResult",
+			"JsonResponce",
+			"Request",
+			"992987021665",
+			"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><result><list><callResult><alertTime><format>real</format><value>4.235</value></alertTime><audioUrl><format>string</format><value>8/100000047335/100000047335</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>1</value></callListRowNr><callResultId><format>long</format><value>7786558</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.701</value></callStart><callStartMs><format>long</format><value>1423574110701</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992987021665</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.035</value></disconnectTime><externalBatchId><format>string</format><value>100000047335</value></externalBatchId><externalCallId><format>string</format><value>100000047335</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.031</value></lastDigitSent><pdd><format>real</format><value>4.204</value></pdd><phoneNumber><format>string</format><value>+992987021665</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>7.601</value></alertTime><audioUrl><format>string</format><value>8/100000047334/100000047334</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>2</value></callListRowNr><callResultId><format>long</format><value>7786561</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.802</value></callStart><callStartMs><format>long</format><value>1423574110802</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992985978458</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.042</value></disconnectTime><externalBatchId><format>string</format><value>100000047334</value></externalBatchId><externalCallId><format>string</format><value>100000047334</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.037</value></lastDigitSent><pdd><format>real</format><value>7.564</value></pdd><phoneNumber><format>string</format><value>+992985978458</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>6.406</value></alertTime><audioUrl><format>string</format><value>8/100000047337/100000047337</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>3</value></callListRowNr><callResultId><format>long</format><value>7786562</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.853</value></callStart><callStartMs><format>long</format><value>1423574110853</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992985462482</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.039</value></disconnectTime><externalBatchId><format>string</format><value>100000047337</value></externalBatchId><externalCallId><format>string</format><value>100000047337</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.035</value></lastDigitSent><pdd><format>real</format><value>6.371</value></pdd><phoneNumber><format>string</format><value>+992985462482</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>5.012</value></alertTime><audioUrl><format>string</format><value>8/100000047331/100000047331</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>4</value></callListRowNr><callResultId><format>long</format><value>7786549</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.324</value></callStart><callStartMs><format>long</format><value>1423574110324</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992985204706</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.048</value></disconnectTime><externalBatchId><format>string</format><value>100000047331</value></externalBatchId><externalCallId><format>string</format><value>100000047331</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.044</value></lastDigitSent><pdd><format>real</format><value>4.968</value></pdd><phoneNumber><format>string</format><value>+992985204706</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>5.205</value></alertTime><audioUrl><format>string</format><value>8/100000047336/100000047336</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>5</value></callListRowNr><callResultId><format>long</format><value>7786564</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.953</value></callStart><callStartMs><format>long</format><value>1423574110953</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992989094824</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.04</value></disconnectTime><externalBatchId><format>string</format><value>100000047336</value></externalBatchId><externalCallId><format>string</format><value>100000047336</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.036</value></lastDigitSent><pdd><format>real</format><value>5.169</value></pdd><phoneNumber><format>string</format><value>+992989094824</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>6.657</value></alertTime><audioUrl><format>string</format><value>8/100000047338/100000047338</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>6</value></callListRowNr><callResultId><format>long</format><value>7786556</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.600</value></callStart><callStartMs><format>long</format><value>1423574110600</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992987156892</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.04</value></disconnectTime><externalBatchId><format>string</format><value>100000047338</value></externalBatchId><externalCallId><format>string</format><value>100000047338</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.035</value></lastDigitSent><pdd><format>real</format><value>6.622</value></pdd><phoneNumber><format>string</format><value>+992987156892</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.453</value></alertTime><audioUrl><format>string</format><value>8/100000047330/100000047330</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>7</value></callListRowNr><callResultId><format>long</format><value>7786553</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.499</value></callStart><callStartMs><format>long</format><value>1423574110499</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992918616602</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.036</value></disconnectTime><externalBatchId><format>string</format><value>100000047330</value></externalBatchId><externalCallId><format>string</format><value>100000047330</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.032</value></lastDigitSent><pdd><format>real</format><value>4.421</value></pdd><phoneNumber><format>string</format><value>+992918616602</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.43</value></alertTime><audioUrl><format>string</format><value>8/100000047339/100000047339</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>8</value></callListRowNr><callResultId><format>long</format><value>7786563</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.903</value></callStart><callStartMs><format>long</format><value>1423574110903</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992918614371</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.041</value></disconnectTime><externalBatchId><format>string</format><value>100000047339</value></externalBatchId><externalCallId><format>string</format><value>100000047339</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.037</value></lastDigitSent><pdd><format>real</format><value>4.393</value></pdd><phoneNumber><format>string</format><value>+992918614371</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>3.902</value></alertTime><audioUrl><format>string</format><value>8/100000047327/100000047327</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>9</value></callListRowNr><callResultId><format>long</format><value>7786548</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.248</value></callStart><callStartMs><format>long</format><value>1423574110248</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992988806563</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.035</value></disconnectTime><externalBatchId><format>string</format><value>100000047327</value></externalBatchId><externalCallId><format>string</format><value>100000047327</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.03</value></lastDigitSent><pdd><format>real</format><value>3.872</value></pdd><phoneNumber><format>string</format><value>+992988806563</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.671</value></alertTime><audioUrl><format>string</format><value>8/100000047332/100000047332</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>10</value></callListRowNr><callResultId><format>long</format><value>7786557</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.650</value></callStart><callStartMs><format>long</format><value>1423574110650</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992987137977</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.034</value></disconnectTime><externalBatchId><format>string</format><value>100000047332</value></externalBatchId><externalCallId><format>string</format><value>100000047332</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.03</value></lastDigitSent><pdd><format>real</format><value>4.641</value></pdd><phoneNumber><format>string</format><value>+992987137977</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>5.374</value></alertTime><audioUrl><format>string</format><value>8/100000047328/100000047328</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>11</value></callListRowNr><callResultId><format>long</format><value>7786552</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.448</value></callStart><callStartMs><format>long</format><value>1423574110448</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992988017336</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.036</value></disconnectTime><externalBatchId><format>string</format><value>100000047328</value></externalBatchId><externalCallId><format>string</format><value>100000047328</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.031</value></lastDigitSent><pdd><format>real</format><value>5.343</value></pdd><phoneNumber><format>string</format><value>+992988017336</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>5.339</value></alertTime><audioUrl><format>string</format><value>8/100000047329/100000047329</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>12</value></callListRowNr><callResultId><format>long</format><value>7786555</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.549</value></callStart><callStartMs><format>long</format><value>1423574110549</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992987055021</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.035</value></disconnectTime><externalBatchId><format>string</format><value>100000047329</value></externalBatchId><externalCallId><format>string</format><value>100000047329</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.031</value></lastDigitSent><pdd><format>real</format><value>5.308</value></pdd><phoneNumber><format>string</format><value>+992987055021</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>11.623</value></alertTime><audioUrl><format>string</format><value>8/100000047326/100000047326</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>13</value></callListRowNr><callResultId><format>long</format><value>7786551</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.398</value></callStart><callStartMs><format>long</format><value>1423574110398</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992988645523</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.037</value></disconnectTime><externalBatchId><format>string</format><value>100000047326</value></externalBatchId><externalCallId><format>string</format><value>100000047326</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.034</value></lastDigitSent><pdd><format>real</format><value>11.589</value></pdd><phoneNumber><format>string</format><value>+992988645523</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.859</value></alertTime><audioUrl><format>string</format><value>8/100000047325/100000047325</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>14</value></callListRowNr><callResultId><format>long</format><value>7786550</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.348</value></callStart><callStartMs><format>long</format><value>1423574110348</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992918612308</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.036</value></disconnectTime><externalBatchId><format>string</format><value>100000047325</value></externalBatchId><externalCallId><format>string</format><value>100000047325</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.032</value></lastDigitSent><pdd><format>real</format><value>4.827</value></pdd><phoneNumber><format>string</format><value>+992918612308</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>5.875</value></alertTime><audioUrl><format>string</format><value>8/100000047333/100000047333</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>15</value></callListRowNr><callResultId><format>long</format><value>7786559</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:10.751</value></callStart><callStartMs><format>long</format><value>1423574110751</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1074#992985568582</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.036</value></disconnectTime><externalBatchId><format>string</format><value>100000047333</value></externalBatchId><externalCallId><format>string</format><value>100000047333</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.031</value></lastDigitSent><pdd><format>real</format><value>5.844</value></pdd><phoneNumber><format>string</format><value>+992985568582</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBTELECOM</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>3.482</value></alertTime><audioUrl><format>string</format><value>8/100000047366/100000047366</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>14.24</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>16</value></callListRowNr><callResultId><format>long</format><value>7786577</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.839</value></callStart><callStartMs><format>long</format><value>1423574147839</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>21.214</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992987021665</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.454</value></disconnectTime><externalBatchId><format>string</format><value>100000047366</value></externalBatchId><externalCallId><format>string</format><value>100000047366</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.032</value></lastDigitSent><pdd><format>real</format><value>3.45</value></pdd><phoneNumber><format>string</format><value>+992987021665</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>2.34</value></alertTime><audioUrl><format>string</format><value>8/100000047368/100000047368</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value>2015-02-10 15:16:48.806</value></callComplete><callCompleteMs><format>long</format><value>1423574208806</value></callCompleteMs><callDuration><format>real</format><value>30.018</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>17</value></callListRowNr><callResultId><format>long</format><value>7786588</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.944</value></callStart><callStartMs><format>long</format><value>1423574147944</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>30.889</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992985978458</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>60.907</value></disconnectTime><externalBatchId><format>string</format><value>100000047368</value></externalBatchId><externalCallId><format>string</format><value>100000047368</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.03</value></lastDigitSent><pdd><format>real</format><value>2.31</value></pdd><phoneNumber><format>string</format><value>+992985978458</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.433</value></alertTime><audioUrl><format>string</format><value>8/100000047369/100000047369</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value>2015-02-10 15:16:27.445</value></callComplete><callCompleteMs><format>long</format><value>1423574187445</value></callCompleteMs><callDuration><format>real</format><value>30.017</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>18</value></callListRowNr><callResultId><format>long</format><value>7786580</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.964</value></callStart><callStartMs><format>long</format><value>1423574147964</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>9.479</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992985462482</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>39.496</value></disconnectTime><externalBatchId><format>string</format><value>100000047369</value></externalBatchId><externalCallId><format>string</format><value>100000047369</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.029</value></lastDigitSent><pdd><format>real</format><value>4.404</value></pdd><phoneNumber><format>string</format><value>+992985462482</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>0.984</value></alertTime><audioUrl><format>string</format><value>8/100000047357/100000047357</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value>2015-02-10 15:16:26.779</value></callComplete><callCompleteMs><format>long</format><value>1423574186779</value></callCompleteMs><callDuration><format>real</format><value>30.017</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>19</value></callListRowNr><callResultId><format>long</format><value>7786579</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.359</value></callStart><callStartMs><format>long</format><value>1423574147359</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>9.419</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992985204706</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>39.436</value></disconnectTime><externalBatchId><format>string</format><value>100000047357</value></externalBatchId><externalCallId><format>string</format><value>100000047357</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.04</value></lastDigitSent><pdd><format>real</format><value>0.944</value></pdd><phoneNumber><format>string</format><value>+992985204706</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>7.631</value></alertTime><audioUrl><format>string</format><value>8/100000047371/100000047371</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value>2015-02-10 15:16:43.655</value></callComplete><callCompleteMs><format>long</format><value>1423574203655</value></callCompleteMs><callDuration><format>real</format><value>30.016</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>20</value></callListRowNr><callResultId><format>long</format><value>7786585</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:48.065</value></callStart><callStartMs><format>long</format><value>1423574148065</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>25.588</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992989094824</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>55.604</value></disconnectTime><externalBatchId><format>string</format><value>100000047371</value></externalBatchId><externalCallId><format>string</format><value>100000047371</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.03</value></lastDigitSent><pdd><format>real</format><value>7.601</value></pdd><phoneNumber><format>string</format><value>+992989094824</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.372</value></alertTime><audioUrl><format>string</format><value>8/100000047364/100000047364</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>1.192</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>21</value></callListRowNr><callResultId><format>long</format><value>7786566</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.712</value></callStart><callStartMs><format>long</format><value>1423574147712</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>9.343</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992987156892</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>10.535</value></disconnectTime><externalBatchId><format>string</format><value>100000047364</value></externalBatchId><externalCallId><format>string</format><value>100000047364</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.031</value></lastDigitSent><pdd><format>real</format><value>4.341</value></pdd><phoneNumber><format>string</format><value>+992987156892</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>0.415</value></alertTime><audioUrl><format>string</format><value>8/100000047361/100000047361</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>17.721</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>22</value></callListRowNr><callResultId><format>long</format><value>7786581</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.561</value></callStart><callStartMs><format>long</format><value>1423574147561</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>23.298</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992918616602</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>41.019</value></disconnectTime><externalBatchId><format>string</format><value>100000047361</value></externalBatchId><externalCallId><format>string</format><value>100000047361</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.03</value></lastDigitSent><pdd><format>real</format><value>0.385</value></pdd><phoneNumber><format>string</format><value>+992918616602</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>1.347</value></alertTime><audioUrl><format>string</format><value>8/100000047370/100000047370</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>15.171</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>23</value></callListRowNr><callResultId><format>long</format><value>7786578</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:48.014</value></callStart><callStartMs><format>long</format><value>1423574148014</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>21.254</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992918614371</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>36.425</value></disconnectTime><externalBatchId><format>string</format><value>100000047370</value></externalBatchId><externalCallId><format>string</format><value>100000047370</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.029</value></lastDigitSent><pdd><format>real</format><value>1.318</value></pdd><phoneNumber><format>string</format><value>+992918614371</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>1.326</value></alertTime><audioUrl><format>string</format><value>8/100000047356/100000047356</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>24</value></callListRowNr><callResultId><format>long</format><value>7786574</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.296</value></callStart><callStartMs><format>long</format><value>1423574147296</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992988806563</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.032</value></disconnectTime><externalBatchId><format>string</format><value>100000047356</value></externalBatchId><externalCallId><format>string</format><value>100000047356</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.028</value></lastDigitSent><pdd><format>real</format><value>1.298</value></pdd><phoneNumber><format>string</format><value>+992988806563</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>0.794</value></alertTime><audioUrl><format>string</format><value>8/100000047365/100000047365</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>25</value></callListRowNr><callResultId><format>long</format><value>7786576</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.762</value></callStart><callStartMs><format>long</format><value>1423574147762</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992987137977</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.032</value></disconnectTime><externalBatchId><format>string</format><value>100000047365</value></externalBatchId><externalCallId><format>string</format><value>100000047365</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.028</value></lastDigitSent><pdd><format>real</format><value>0.766</value></pdd><phoneNumber><format>string</format><value>+992987137977</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>5.328</value></alertTime><audioUrl><format>string</format><value>8/100000047360/100000047360</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>8.342</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>26</value></callListRowNr><callResultId><format>long</format><value>7786572</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.535</value></callStart><callStartMs><format>long</format><value>1423574147535</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>23.499</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992988017336</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>31.841</value></disconnectTime><externalBatchId><format>string</format><value>100000047360</value></externalBatchId><externalCallId><format>string</format><value>100000047360</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.028</value></lastDigitSent><pdd><format>real</format><value>5.3</value></pdd><phoneNumber><format>string</format><value>+992988017336</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>4.824</value></alertTime><audioUrl><format>string</format><value>8/100000047363/100000047363</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>21.555</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>27</value></callListRowNr><callResultId><format>long</format><value>7786570</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.691</value></callStart><callStartMs><format>long</format><value>1423574147691</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>9.926</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992987055021</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>31.481</value></disconnectTime><externalBatchId><format>string</format><value>100000047363</value></externalBatchId><externalCallId><format>string</format><value>100000047363</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.031</value></lastDigitSent><pdd><format>real</format><value>4.793</value></pdd><phoneNumber><format>string</format><value>+992987055021</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>1.601</value></alertTime><audioUrl><format>string</format><value>8/100000047359/100000047359</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value></value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>28</value></callListRowNr><callResultId><format>long</format><value>7786575</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.460</value></callStart><callStartMs><format>long</format><value>1423574147460</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value></value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992988645523</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>35.034</value></disconnectTime><externalBatchId><format>string</format><value>100000047359</value></externalBatchId><externalCallId><format>string</format><value>100000047359</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.03</value></lastDigitSent><pdd><format>real</format><value>1.571</value></pdd><phoneNumber><format>string</format><value>+992988645523</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>No answer from user (user alerted)</value></status><statusCode><format>integer</format><value>19</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>1.727</value></alertTime><audioUrl><format>string</format><value>8/100000047358/100000047358</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>12.447</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>29</value></callListRowNr><callResultId><format>long</format><value>7786571</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.439</value></callStart><callStartMs><format>long</format><value>1423574147439</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>19.418</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992918612308</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>31.865</value></disconnectTime><externalBatchId><format>string</format><value>100000047358</value></externalBatchId><externalCallId><format>string</format><value>100000047358</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.028</value></lastDigitSent><pdd><format>real</format><value>1.699</value></pdd><phoneNumber><format>string</format><value>+992918612308</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list><list><callResult><alertTime><format>real</format><value>2.337</value></alertTime><audioUrl><format>string</format><value>8/100000047367/100000047367</value></audioUrl><callComplete><format>ISO 8601 datetime</format><value></value></callComplete><callCompleteMs><format>long</format><value></value></callCompleteMs><callDuration><format>real</format><value>25.899</value></callDuration><callListLogId><format>long</format><value>211781</value></callListLogId><callListRepeatNr><format>integer</format><value>1</value></callListRepeatNr><callListRowNr><format>integer</format><value>30</value></callListRowNr><callResultId><format>long</format><value>7786583</value></callResultId><callStart><format>ISO 8601 datetime</format><value>2015-02-10 15:15:47.863</value></callStart><callStartMs><format>long</format><value>1423574147863</value></callStartMs><callType><format>string</format><value>CCS Voice Short Test Next</value></callType><callingNumber><format>string</format><value>44052295322</value></callingNumber><causeCodeId><format>integer</format><value>16</value></causeCodeId><causeLocationId><format>integer</format><value>0</value></causeLocationId><connectTime><format>real</format><value>20.476</value></connectTime><country><format>string</format><value>TAJIKISTAN</value></country><destination><format>string</format><value>Tajikistan Mobile Babilon</value></destination><dialedPhoneNumber><format>string</format><value>1116#992985568582</value></dialedPhoneNumber><dialer><format>string</format><value>SIP1</value></dialer><dialerGroup><format>string</format><value>CCS Dialer Group</value></dialerGroup><disconnectTime><format>real</format><value>46.375</value></disconnectTime><externalBatchId><format>string</format><value>100000047367</value></externalBatchId><externalCallId><format>string</format><value>100000047367</value></externalCallId><label><format>string</format><value>Trunk group</value></label><lastDigitSent><format>real</format><value>0.032</value></lastDigitSent><pdd><format>real</format><value>2.305</value></pdd><phoneNumber><format>string</format><value>+992985568582</value></phoneNumber><phoneNumberName><format>string</format><value>Direct number</value></phoneNumberName><phoneNumberType><format>string</format><value></value></phoneNumberType><region><format>string</format><value>ASIA</value></region><route><format>string</format><value>IBASSIS</value></route><routeFolder><format>string</format><value>GHI</value></routeFolder><status><format>string</format><value>Ok</value></status><statusCode><format>integer</format><value>300</value></statusCode><toneDetection><format>real</format><value></value></toneDetection><username><format>string</format><value>supperkey</value></username><webServiceId><format>long</format><value>1</value></webServiceId></callResult></list></result><status><code>200</code><message>Ok</message></status></response>",
+			"7780759",
+			"7780759L",
+			"211571",
+			"[",
+			"+37369168247",
+			"get_mngr_rgn_zonecorrections",
+			"fill_total_mngr_region",
+			"get_mngr_rgn_zonecorrections",
+			"File administratively closed",
+			"7926",
+			"^7926",
+			"File administratively closed.",
+			"10072014 070112: File administratively closed.",
+			"AddNewS",
+			"AddSwap",
+			"AddSwapPla",
+			"GetSwapPla",
+			"AddBill",
+			"dministr",
+			"Administr",
+			"GetGroupByZone",
+			"GetSwapP",
+			"GetSwapPlans",
+			"*Queries",
+			"GOMAXPROCS",
+			"GetSumMinutes",
+			"GetCarrierByGroup",
+			"close",
+			"string",
+			"GetDestByGroup",
+			"[][]string",
+			"destination_existed",
+			"[][]string",
+			"GetSwapPlans",
+			"GetSumMinutes",
+			"GetSwapPlans",
+			"GetSwapPlansJoin",
+			"UpdateSwapPlan",
+			"swap_plan",
+			"GetSwapPlansJoin",
+			"swap_plan",
+			"DeleteSwapLine",
+			"DeleteSwapLines",
+			"float64",
+			"GetGroupDests",
+			"QueryRow",
+			"SliceToStr",
+			"GetSwapPlans",
+			"update_swap_data",
+			"add_update_delete_actions",
+			"destination_existed",
+			"GetSumMinutes",
+			"GOMAXPROCS",
+			") add_update_delete_actions(",
+			"db.",
+			"db",
+			"GetMngrZone",
+			"GetCalcnameFromCorrections",
+			"GetMngrFromCorrections",
+			"fmt.Er",
+			"new_er",
+			"fmt.Er",
+			"GetTotalSumZonecorrection",
+			"GetMngrRgnZonecorrections",
+			"GetTotalSumCorrections",
+			"GetTotalSumZonecorrections",
+			"GetMngrRgnZonecorrections",
+			"DELETE",
+			"GetMngrRgnZonecorrections",
+			"GetMngrCarrier",
+			"GetMngrRgnZonecorrections",
+			"GetTotalSumCorrections",
+			"strconv",
+			"GetTotalSumCorrections",
+			"Bi",
+			"Float",
+			"Integer",
+			"log.P",
+			"calculations_swaps",
+			"run_goroutine_calc",
+			"calculations_20_80",
+			"MainCalculations",
+			"get20_80settings",
+			"zone_swap_calc",
+			"zone20_80calc",
+			"get_ccs_corrections",
+			"get20_80corrections",
+			"get_all_swap_corrections",
+			"get_dest_zone",
+			"add_zone_correctionsdata",
+			"run_goroutine_calc",
+			"calculations_swaps",
+			"calculations_20_80",
+			"add_corrections_data",
+			"get_supplier_calls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EXPENSE",
+			"expence",
+			"",
+			"Queries",
+			"q.Db.",
+			"q.Db",
+			"String(30)",
+			"q.Logger.P",
+			",",
+			"SqlQuery",
+			"Service"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/ikurakin/Documents/ccs_work/1c_integration/src/main":
+	{
+		"height": 96.0
+	},
+	"output.9o:///Users/ikurakin/Documents/go_projects/src/cdr_processing":
+	{
+		"height": 96.0
+	},
+	"output.9o:///Users/ikurakin/Documents/go_projects/src/mongo_sonus_cdr":
+	{
+		"height": 96.0
+	},
+	"output.9o:///Users/ikurakin/Documents/go_projects/src/rpc_server":
+	{
+		"height": 96.0
+	},
+	"output.9o:///Users/ikurakin/Documents/go_projects/src/swap_margin/db_queries":
+	{
+		"height": 96.0
+	},
+	"output.9o:///Users/ikurakin/Documents/go_projects/src/websocket_test":
+	{
+		"height": 96.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 114.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 112.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hextask.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 543.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

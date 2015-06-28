@@ -1,0 +1,18 @@
+{
+	"settings": {
+            "GoSublime": {
+                "env": {
+                    "GOPATH": "$HOME/Documents/hexagon_task",
+                    "PATH": "$HOME/Documents/go_projects/bin",
+                },
+                "fmt_cmd": ["goimports"],
+            },
+    },
+
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}
