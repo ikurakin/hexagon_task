@@ -4,12 +4,68 @@
 		"selected_items":
 		[
 			[
-				"r",
-				"rbody	 ν"
+				"db",
+				"dbconn	string ν"
+			],
+			[
+				"L",
+				"Log	*log.Logger ν"
+			],
+			[
+				"lo",
+				"logger	*log.Logger ν"
+			],
+			[
+				"Str",
+				"StringVar	 ƒ"
+			],
+			[
+				"V",
+				"Vprefix	string ν"
+			],
+			[
+				"Vp",
+				"VprefixId	string ν"
+			],
+			[
+				"P",
+				"Prefix	string ν"
+			],
+			[
+				"NewRE",
+				"NewResultPrice	*ResultPrice ƒ"
+			],
+			[
+				"T",
+				"TariffType	string ν"
+			],
+			[
+				"RE",
+				"RegionName	string ν"
+			],
+			[
+				"price",
+				"priceId	string ν"
 			],
 			[
 				"func",
-				"func http handler	func(rw, req) ʂ"
+				"func (*ResultData)	func (...) {...} ʂ"
+			],
+			[
+				"Res",
+				"ResultPrice	struct ʈ"
+			],
+			[
+				"Pri",
+				"PlPriceList	struct ʈ"
+			],
+			[
+				"Std",
+				"Stdout	*os.File ν"
+			],
+			[
+				"r",
+				"rbody	 ν"
 			],
 			[
 				"s",
@@ -62,10 +118,6 @@
 			[
 				"o",
 				"ok	 ν"
-			],
-			[
-				"db",
-				"dbconn_list	[]string ν"
 			],
 			[
 				"obj",
@@ -268,10 +320,6 @@
 				"Subrouter	*mux.Router ƒ"
 			],
 			[
-				"T",
-				"Tick	struct ʈ"
-			],
-			[
 				"cre",
 				"createCurrentLine	 ƒ"
 			],
@@ -286,10 +334,6 @@
 			[
 				"lin",
 				"line_chan	chan *plotter.Line ν"
-			],
-			[
-				"L",
-				"Line	struct ʈ"
 			],
 			[
 				"plo",
@@ -310,10 +354,6 @@
 			[
 				"J",
 				"JsonResult	struct ʈ"
-			],
-			[
-				"P",
-				"Println	n int, err error ƒ"
 			],
 			[
 				"ans",
@@ -378,10 +418,6 @@
 			[
 				"sm",
 				"smtpbox	 ν"
-			],
-			[
-				"Pri",
-				"Println	 ƒ"
 			],
 			[
 				"re",
@@ -478,47 +514,27 @@
 			[
 				"calc",
 				"calc_name	string ν"
-			],
-			[
-				"add",
-				"add_total_mngr_region	err error ƒ"
-			],
-			[
-				"mn",
-				"mngr_region	string ν"
-			],
-			[
-				"e",
-				"excl_carrier	string ν"
-			],
-			[
-				"ini",
-				"init_queries	*db_queries.Queries ƒ"
-			],
-			[
-				"lo",
-				"logger	*log.Logger ν"
-			],
-			[
-				"O",
-				"O_RDWR	 Ɩ"
-			],
-			[
-				"op",
-				"OpenFile	file *os.File, err error ƒ"
-			],
-			[
-				"u",
-				"update_str	string ν"
-			],
-			[
-				"fmt",
-				"fmt_cur_date	string ν"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/csvfiles/process.go",
+			"settings":
+			{
+				"buffer_size": 5111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/csvfiles/vprefix.go",
+			"settings":
+			{
+				"buffer_size": 728,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -633,10 +649,28 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ikurakin/Documents/hexagon_task"
+		"/Users/ikurakin/Documents/hexagon_task",
+		"/Users/ikurakin/Documents/hexagon_task/bin",
+		"/Users/ikurakin/Documents/hexagon_task/src",
+		"/Users/ikurakin/Documents/hexagon_task/src/cmd",
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles"
 	],
 	"file_history":
 	[
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles/pl_pricelist.go",
+		"/Users/ikurakin/Downloads/temp/pl_pricelist.csv",
+		"/Users/ikurakin/Downloads/temp/pl_regprice.csv",
+		"/Users/ikurakin/Downloads/temp/vprefix.csv",
+		"/Users/ikurakin/Downloads/temp/pl_prefix.csv",
+		"/Users/ikurakin/Documents/hexagon_task/src/cmd/hexparser/main.go",
+		"/Users/ikurakin/Documents/hexagon_task/bin/process.log",
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles/vprefix.go",
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles/pl_regprice.go",
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles/pl_prefix.go",
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles/utils.go",
+		"/Users/ikurakin/Documents/hexagon_task/src/csvfiles/interface.go",
+		"/Users/ikurakin/Documents/hexagon_task/hextask.sublime-project",
+		"/Users/ikurakin/Documents/apartment_search/apartment_search.sublime-project",
 		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/cmd/checkinvoice/main.go",
 		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/cmd/main/main.go",
 		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/carriers.go",
@@ -645,10 +679,6 @@
 		"/Users/ikurakin/Documents/go_projects/src/swap_plan_minutes/db_queries/db_queries.go",
 		"/Users/ikurakin/Documents/go_projects/src/github.com/constabulary/gb/cmd/gb-vendor/vendor/repo.go",
 		"/Users/ikurakin/Documents/go_learning.sublime-project",
-		"/Users/ikurakin/Downloads/temp/pl_regprice.csv",
-		"/Users/ikurakin/Downloads/temp/vprefix.csv",
-		"/Users/ikurakin/Downloads/temp/pl_pricelist.csv",
-		"/Users/ikurakin/Downloads/temp/pl_prefix.csv",
 		"/Users/ikurakin/Documents/ccs_work/1c_integration/1c_expinvoice_post_src",
 		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/objects1c_test.go",
 		"/Users/ikurakin/Documents/ccs_work/1c_integration/src/objects1c/purchase_invoice.go",
@@ -754,21 +784,11 @@
 		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoSublime/README.md",
 		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903023000.100F772",
 		"/Users/ikurakin/Documents/ccs_work/aberrant/capgsx01.20140827094502.100EEFD",
-		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoGdb/Default.sublime-keymap",
-		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoGdb/GoGdb.sublime-settings",
-		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/gosort",
-		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/User/untitled",
-		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140910185942.1010357.PRC",
-		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903031500.100F775",
-		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903024501.100F773",
-		"/Users/ikurakin/Documents/ccs_work/cdr_processing/cdrs/capgsx01.20140903033000.100F776",
-		"/Users/ikurakin/Documents/swap_plan_minutes",
-		"/Users/ikurakin/Documents/ccs_work/aberrant/oberator_20140908"
+		"/Users/ikurakin/Library/Application Support/Sublime Text 3/Packages/GoGdb/Default.sublime-keymap"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -785,6 +805,18 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"17986",
+			"17992",
+			"9763",
+			"9377",
+			"009377",
+			"1683130",
+			"21291122",
+			"923123",
+			"1681948",
+			"0093",
+			"93",
+			"919540",
 			"email",
 			"unknown repository type",
 			"\"fetch\" failed: unknown repository type",
@@ -900,19 +932,7 @@
 			"run_goroutine_calc",
 			"calculations_20_80",
 			"MainCalculations",
-			"get20_80settings",
-			"zone_swap_calc",
-			"zone20_80calc",
-			"get_ccs_corrections",
-			"get20_80corrections",
-			"get_all_swap_corrections",
-			"get_dest_zone",
-			"add_zone_correctionsdata",
-			"run_goroutine_calc",
-			"calculations_swaps",
-			"calculations_20_80",
-			"add_corrections_data",
-			"get_supplier_calls"
+			"get20_80settings"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -941,8 +961,68 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/csvfiles/process.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2506,
+								2506
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/csvfiles/vprefix.go",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

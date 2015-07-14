@@ -62,19 +62,60 @@ func NewResultData(dbconn string) *ResultData {
 	}
 }
 
+// func (rd *ResultData) ProcessData() {
+// 	r, ok := rd.ParsedFiles["pl_pricelist.csv"]
+// 	if ok {
+// 		data := r.(*PlPriceListData).GetData()
+// 		plPrice := data.([]PlPriceList)
+// 		for _, p := range plPrice {
+// 			rp := NewResultPrice()
+// 			rp.PricelistId = p.PricelistId
+// 			rp.CurrencyFactor = p.CurrencyFactor
+// 			rp.CurrencyId = p.CurrencyId
+// 			rp.CarrierId = p.CarrierId
+// 			rd.wg.Add(1)
+// 			go rd.getRegPriceData(rp)
+// 		}
+
+// 		rd.wg.Wait()
+// 		log.Println(rd.Data)
+// 	}
+// }
+
+// func (rd *ResultData) getRegPriceData(resPrice *ResultPrice) {
+// 	r, ok := rd.ParsedFiles["pl_regprice.csv"]
+// 	if ok {
+// 		regPrice := r.(*PlRegPriceData).GetData()
+// 		for _, rp := range regPrice.([]PlRegPrice) {
+// 			if rp.PricelistId == resPrice.PricelistId {
+// 				resPrice.RegionId = rp.RegionId
+// 				resPrice.Price = rp.Price
+// 				resPrice.RegionName = rp.RegionName
+// 				resPrice.TariffId = rp.TariffId
+// 				resPrice.TariffType = rp.TariffType
+// 				go rd.getPrefixData(resPrice)
+// 				return
+// 			}
+// 		}
+// 	}
+// 	rd.wg.Done()
+// }
+
 func (rd *ResultData) ProcessData() {
-	r, ok := rd.ParsedFiles["pl_pricelist.csv"]
+	r, ok := rd.ParsedFiles["pl_regprice.csv"]
 	if ok {
-		data := r.(*PlPriceListData).GetData()
-		plPrice := data.([]PlPriceList)
-		for _, p := range plPrice {
+		data := r.(*PlRegPriceData).GetData()
+		regPrice := data.([]PlRegPrice)
+		for _, p := range regPrice {
 			rp := NewResultPrice()
 			rp.PricelistId = p.PricelistId
-			rp.CurrencyFactor = p.CurrencyFactor
-			rp.CurrencyId = p.CurrencyId
-			rp.CarrierId = p.CarrierId
+			rp.RegionId = p.RegionId
+			rp.Price = p.Price
+			rp.RegionName = p.RegionName
+			rp.TariffId = p.TariffId
+			rp.TariffType = p.TariffType
 			rd.wg.Add(1)
-			go rd.getRegPriceData(rp)
+			go rd.getPriceData(rp)
 		}
 
 		rd.wg.Wait()
@@ -82,17 +123,16 @@ func (rd *ResultData) ProcessData() {
 	}
 }
 
-func (rd *ResultData) getRegPriceData(resPrice *ResultPrice) {
-	r, ok := rd.ParsedFiles["pl_regprice.csv"]
+func (rd *ResultData) getPriceData(resPrice *ResultPrice) {
+	r, ok := rd.ParsedFiles["pl_pricelist.csv"]
 	if ok {
-		regPrice := r.(*PlRegPriceData).GetData()
-		for _, rp := range regPrice.([]PlRegPrice) {
-			if rp.PricelistId == resPrice.PricelistId {
-				resPrice.RegionId = rp.RegionId
-				resPrice.Price = rp.Price
-				resPrice.RegionName = rp.RegionName
-				resPrice.TariffId = rp.TariffId
-				resPrice.TariffType = rp.TariffType
+		plPrice := r.(*PlPriceListData).GetData()
+		for _, p := range plPrice.([]PlPriceList) {
+			if p.PricelistId == resPrice.PricelistId {
+				// resPrice.PricelistId = p.PricelistId
+				resPrice.CurrencyFactor = p.CurrencyFactor
+				resPrice.CurrencyId = p.CurrencyId
+				resPrice.CarrierId = p.CarrierId
 				go rd.getPrefixData(resPrice)
 				return
 			}
